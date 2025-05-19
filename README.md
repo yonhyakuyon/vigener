@@ -1,4 +1,7 @@
 # vigener
+![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/yonhyakuyon/vigener)
+![Code Size](https://img.shields.io/github/languages/code-size/yonhyakuyon/vigener)
 
 A Python program that implements the Vigenère cipher for text encryption and decryption.
 
